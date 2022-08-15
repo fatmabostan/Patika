@@ -3,12 +3,6 @@
 |  	|  	|  	|  	|  	|  	| 7 	|  	|  	|
 |---	|---	|---	|---	|---	|---	|:---:	|---	|---	|
 |  	|  	|  	|  	|  	| / 	|  	| \ 	|  	|
-|  	|  	|  	|  	|  	|  	|  	|  	|  	|
-
-
-
-
-
 
 
 
@@ -18,11 +12,6 @@ Sıradaki değer root elemandan küçükse sola büyükse sağa yazıyoruz. root
 |  	|  	|  	|  	|  	| / 	|  	| \ 	|  	|
 |  	|  	|  	|  	| 5 	|  	|  	|  	|  	|
 |  	|  	|  	| / 	|  	| \ 	|  	|  	|  	|
-|  	|  	|  	|  	|  	|  	|  	|  	|  	|
-
-
-
-
 
 
 
@@ -36,12 +25,6 @@ Sonraki eleman 1, 5 sayısından küçük olduğu için 5 in soluna yazıyoruz.
 |  	|  	|  	| / 	|  	| \ 	|  	|  	|  	|
 |  	|  	| 1 	|  	|  	|  	|  	|  	|  	|
 |  	| / 	|  	| \ 	|  	|  	|  	|  	|  	|
-|  	|  	|  	|  	|  	|  	|  	|  	|  	|
-
-
-
-
-
 
 
 
@@ -55,18 +38,12 @@ Sonraki eleman 1, 5 sayısından küçük olduğu için 5 in soluna yazıyoruz.
 |  	|  	|  	| / 	|  	| \ 	|  	|  	|  	| \ 	|  	|
 |  	|  	| 1 	|  	|  	|  	|  	|  	|  	|  	|  	|
 |  	| / 	|  	| \ 	|  	|  	|  	|  	|  	|  	|  	|
-|  	|  	|  	|  	|  	|  	|  	|  	|  	|  	|  	|
 
 
 
 
 
-
-
-
-
-
-Bu şekilde ilerleyerek en son ulaştığımız Binary Tree
+Bu şekilde ilerleyerek en son ulaştığımız Binary Tree:
 |  	|  	|  	|  	|  	|  	| 7 	|  	|  	|  	|  	|
 |---	|---	|---	|---	|---	|---	|:---:	|---	|---	|---	|---	|
 |  	|  	|  	|  	|  	| / 	|  	| \ 	|  	|  	|  	|
