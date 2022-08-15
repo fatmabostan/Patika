@@ -15,7 +15,7 @@ Aşama 4: [2,6,16,18,22,27]
 
 3.) Average Case: O(n), Best Case: O(n^2), Worst Case: O(n^2)
 
-4.) 18 sayısı ne en sonda ya da en başta olmadığı için "Average Case"
+4.) 18 sayısı en sonda ya da en başta olmadığı için "Average Case"
 
 
 [7,3,5,8,2,9,4,15,6] dizi sıralama adımları:
