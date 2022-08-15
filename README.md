@@ -1,1 +1,1 @@
-Patika.dev odevleri
+Patika.dev ödevleri
