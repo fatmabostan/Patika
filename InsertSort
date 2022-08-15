@@ -13,7 +13,7 @@ Aşama 4: [2,6,16,18,22,27]
 
 2.) O(n^2)
 
-3.) değişmez. Average Case: O(n^2), Best Case: O(n^2), Worst Case: O(n^2)
+3.) Average Case: O(n), Best Case: O(n^2), Worst Case: O(n^2)
 
 4.) 18 sayısı ne en sonda ya da en başta olmadığı için "Average Case"
 
