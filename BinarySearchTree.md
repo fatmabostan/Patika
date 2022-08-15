@@ -7,6 +7,11 @@
 
 
 
+
+
+
+
+
 Sıradaki değer root elemandan küçükse sola büyükse sağa yazıyoruz. root>5
 |  	|  	|  	|  	|  	|  	| 7 	|  	|  	|
 |---	|---	|---	|---	|---	|---	|:---:	|---	|---	|
@@ -14,6 +19,12 @@ Sıradaki değer root elemandan küçükse sola büyükse sağa yazıyoruz. root
 |  	|  	|  	|  	| 5 	|  	|  	|  	|  	|
 |  	|  	|  	| / 	|  	| \ 	|  	|  	|  	|
 |  	|  	|  	|  	|  	|  	|  	|  	|  	|
+
+
+
+
+
+
 
 
 
@@ -29,6 +40,13 @@ Sonraki eleman 1, 5 sayısından küçük olduğu için 5 in soluna yazıyoruz.
 
 
 
+
+
+
+
+
+
+
 8>7 olduğu için 7'nin sağına yazıyoruz
 |  	|  	|  	|  	|  	|  	| 7 	|  	|  	|  	|  	|
 |---	|---	|---	|---	|---	|---	|:---:	|---	|---	|---	|---	|
@@ -38,6 +56,12 @@ Sonraki eleman 1, 5 sayısından küçük olduğu için 5 in soluna yazıyoruz.
 |  	|  	| 1 	|  	|  	|  	|  	|  	|  	|  	|  	|
 |  	| / 	|  	| \ 	|  	|  	|  	|  	|  	|  	|  	|
 |  	|  	|  	|  	|  	|  	|  	|  	|  	|  	|  	|
+
+
+
+
+
+
 
 
 
