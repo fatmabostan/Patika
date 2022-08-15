@@ -1,4 +1,4 @@
- <p align="center">
+<h1 align="center">
 
 | Verilen diziyi sıralama 	| 16 	| 21 	| 11 	| 8 	| 12 	| 22 	|
 |---	|---	|---	|---	|---	|---	|:---:	|
@@ -30,4 +30,4 @@ Daha sonra değerleri kıyaslayarak tekrar birleştiririz
 
 2.) Big O(n(logn))
 
- </p>
+ </h1>
